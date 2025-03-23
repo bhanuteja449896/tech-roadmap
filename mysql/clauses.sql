@@ -53,7 +53,7 @@ select * from student where age not in (21);
 -- SELECT * FROM Orders
 -- WHERE OrderDate BETWEEN #07/01/1996# AND #07/31/1996#;
 
-
+ 
 
 
 -- Different Types of SQL JOINs
